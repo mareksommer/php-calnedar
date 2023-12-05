@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "name": "event1",
+      "date": "2023-12-11",
+      "location": "location1",
+      "description": "description1"
+    },
+    {
+      "name": "event2",
+      "date": "2023-12-16",
+      "location": "location2",
+      "description": "description2"
+    },
+    {
+      "name": "event3",
+      "date": "2023-12-18",
+      "location": "location3",
+      "description": "description3"
+    }
+  ]
+}
