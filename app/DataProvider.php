@@ -26,5 +26,9 @@
     public function getJsonData(): array {
       return $this->json_data;
     }
+
+    public function getEvents(): array {
+      return $this->json_data['events'];
+    }
   }
 ?>
